@@ -1,2 +1,2 @@
-# Laborator-3-4
-Laborator 3-4
+# Laborator-1-2
+Laborator 1-2
